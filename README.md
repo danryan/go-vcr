@@ -4,8 +4,7 @@ Go port of the [Ruby VCR library](https://github.com/vcr/vcr).
 
 ## Getting started
 
-* Examples
-* Documentation
+This isn't usable right now. Please check back later! :)
 
 ## Is it any good?
 
